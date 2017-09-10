@@ -3,6 +3,6 @@
 
 # 完成的题目列表
 - dp
- - 96. Unique Binary Search Trees
- - 95. Unique Binary Search Trees II
+  - 96 Unique Binary Search Trees
+  - 95 Unique Binary Search Trees II
 
