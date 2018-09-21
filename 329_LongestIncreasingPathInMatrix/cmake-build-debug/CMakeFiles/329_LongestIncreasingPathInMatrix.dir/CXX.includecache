@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/qiuyu/code/DSA/LeetCode/329_LongestIncreasingPathInMatrix/main.cpp
+iostream
+-
+vector
+-
+

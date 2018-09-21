@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/qiuyu/code/DSA/LeetCode/655_PrintBinaryTree/main.cpp
+iostream
+-
+vector
+-
+string
+-
+queue
+-
+stack
+-
+cmath
+-
+

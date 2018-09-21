@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/516_LongestPalindromicSubsequence.dir/main.cpp.o  -o 516_LongestPalindromicSubsequence 
